@@ -1,11 +1,3 @@
-Perfect. This is a clean, controlled, single-device lab and it fits your portfolio style very well.
-
-Below is a **complete GitHub-ready README.md** structured the way you normally build them — recruiter-focused, first-person, technical, with image placeholders referencing the `asses/` folder.
-
-You can copy this directly into your repo.
-
----
-
 # Self Network & Service Enumeration Lab (Kali Linux)
 
 ## ⓘ Overview
