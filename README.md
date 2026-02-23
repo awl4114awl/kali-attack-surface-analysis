@@ -46,7 +46,7 @@ sudo ss -tulnp
 ```
 
 <p align="left">
-  <img src="images/Screenshot 2026-02-22 193427.png" width="600">
+  <img src="assets/Screenshot 2026-02-22 193427.png" width="600">
 </p>
 
 ### Results
@@ -71,7 +71,7 @@ python3 -m http.server 8000
 ```
 
 <p align="left">
-  <img src="images/Screenshot 2026-02-22 193643.png" width="600">
+  <img src="assets/Screenshot 2026-02-22 193643.png" width="600">
 </p>
 
 This intentionally created a listening web service.
@@ -91,7 +91,7 @@ curl http://10.10.20.45:8000
 ```
 
 <p align="left">
-  <img src="images/Screenshot 2026-02-22 193814.png" width="600">
+  <img src="assets/Screenshot 2026-02-22 193814.png" width="600">
 </p>
 
 ---
@@ -125,5 +125,5 @@ nmap 10.10.20.45
 Port 8000 was no longer accessible, confirming remediation success.
 
 <p align="left">
-  <img src="images/Screenshot 2026-02-22 193928.png" width="600">
+  <img src="assets/Screenshot 2026-02-22 193928.png" width="600">
 </p>
